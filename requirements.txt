@@ -5,5 +5,5 @@ datasets
 pypdf
 python-dotenv
 flask
-
+langchain-community
 -e .
